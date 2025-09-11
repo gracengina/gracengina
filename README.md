@@ -24,8 +24,30 @@ Passionate about building clean, efficient systems and exploring how technology 
 
 ---
 
+### Certifications & Badges
 
-## 🌐 Connect
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <a href="https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/A4XYSW47?sharingId=BDFE48A72B7E687C">
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+      Accelerate app development using GitHub Copilot tools
+    </td>
+    <td align="center" width="200">
+      <a href="https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/9YG6RTPU?sharingId=BDFE48A72B7E687C">
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+      Build a minigame with GitHub Copilot and Python
+    </td>
+  </tr>
+</table>
+
+---
+
+## Connect
 <p>
   <a href="https://www.linkedin.com/in/grace-mwangi-b1335b314" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
