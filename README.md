@@ -42,6 +42,13 @@ Passionate about building clean, efficient systems and exploring how technology 
       <br/>
       Build a minigame with GitHub Copilot and Python
     </td>
+     <td align="center" width="200">
+      <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/FMW7N9GX?sharingId=BDFE48A72B7E687C>
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+      Build auto suggest engine with Copilot
+    </td>
   </tr>
 </table>
 
