@@ -77,6 +77,13 @@ Passionate about building clean, efficient systems and exploring how technology 
       <br/>
       Building applications with GitHub Copilot agent mode
     </td>
+    <td align="center" width="200">
+      <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/2D7H8RTV?sharingId=BDFE48A72B7E687C>
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+      Introduction to vibe coding
+    </td>
   </tr>
 </table>
 
