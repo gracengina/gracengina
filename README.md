@@ -56,6 +56,27 @@ Passionate about building clean, efficient systems and exploring how technology 
       <br/>
        Build a minigame with GitHub Copilot and .NET
     </td>
+    <td align="center" width="200">
+      <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/NV85VZLF?sharingId=BDFE48A72B7E687C>
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+      Challenge GitHub Copilot with SQL
+    </td>
+    <td align="center" width="200">
+      <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/NV85VZLF?sharingId=BDFE48A72B7E687C>
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+      Challenge GitHub Copilot with SQL
+    </td>
+    <td align="center" width="200">
+      <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/ZBA3M8C2?sharingId=BDFE48A72B7E687C>
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+      Building applications with GitHub Copilot agent mode
+    </td>
   </tr>
 </table>
 
