@@ -84,6 +84,13 @@ Passionate about building clean, efficient systems and exploring how technology 
       <br/>
       Introduction to vibe coding
     </td>
+     <td align="center" width="200">
+      <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/3A9DLP2H?sharingId=BDFE48A72B7E687C>
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+      Responsible AI with GitHub Copilot
+    </td>
   </tr>
 </table>
 
