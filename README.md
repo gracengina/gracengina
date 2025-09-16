@@ -56,12 +56,19 @@ Passionate about building clean, efficient systems and exploring how technology 
       <br/>
        Build a minigame with GitHub Copilot and .NET
     </td>
-    <td align="center" width="200">
-      <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/NV85VZLF?sharingId=BDFE48A72B7E687C>
+     <td align="center" width="200">
+      <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/8Z3UVYCW?sharingId=BDFE48A72B7E687C>
         <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
       </a>
       <br/>
-      Challenge GitHub Copilot with SQL
+     GitHub Copilot Across Environments: IDE, Chat, GitHub.com, and Command Line Techniques
+     </td>
+    <td align="center" width="200">
+      <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/YEF6WNQR?sharingId=BDFE48A72B7E687C>
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+      Introduction to GitHub Copilot
     </td>
     </tr>
     <tr>
@@ -99,6 +106,13 @@ Passionate about building clean, efficient systems and exploring how technology 
       </a>
       <br/>
       Introduction to prompt engineering with GitHub Copilot
+    </td>
+    <td align="center" width="200">
+      <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/W2H3XU7N?sharingId=BDFE48A72B7E687C>
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+      Using advanced GitHub Copilot features
     </td>
     
   </tr>
