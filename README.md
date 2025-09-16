@@ -63,6 +63,8 @@ Passionate about building clean, efficient systems and exploring how technology 
       <br/>
       Challenge GitHub Copilot with SQL
     </td>
+    </tr>
+    <tr>
     <td align="center" width="200">
       <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/NV85VZLF?sharingId=BDFE48A72B7E687C>
         <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
@@ -91,6 +93,14 @@ Passionate about building clean, efficient systems and exploring how technology 
       <br/>
       Responsible AI with GitHub Copilot
     </td>
+     <td align="center" width="200">
+      <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/NV83WDCF?sharingId=BDFE48A72B7E687C>
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+      Introduction to prompt engineering with GitHub Copilot
+    </td>
+    
   </tr>
 </table>
 
