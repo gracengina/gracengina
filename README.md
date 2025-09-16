@@ -49,12 +49,26 @@ Passionate about building clean, efficient systems and exploring how technology 
       <br/>
       Build auto suggest engine with Copilot
     </td>
+    <td align="center" width="200">
+      <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/9Y66YFJU?sharingId=BDFE48A72B7E687C>
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+      Develop code features using GitHub Copilot tools
+    </td>
      <td align="center" width="200">
       <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/NV87QEMF?sharingId=BDFE48A72B7E687C>
         <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
       </a>
       <br/>
        Build a minigame with GitHub Copilot and .NET
+    </td>
+     <td align="center" width="200">
+      <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/JUBB9L7T?sharingId=BDFE48A72B7E687C>
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+     Generate documentation using GitHub Copilot tools
     </td>
      <td align="center" width="200">
       <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/8Z3UVYCW?sharingId=BDFE48A72B7E687C>
@@ -93,6 +107,13 @@ Passionate about building clean, efficient systems and exploring how technology 
       <br/>
       Introduction to vibe coding
     </td>
+      <td align="center" width="200">
+      <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/YEFFME5R?sharingId=BDFE48A72B7E687C>
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+      Developer use cases for AI with GitHub Copilot
+    </td>
      <td align="center" width="200">
       <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/3A9DLP2H?sharingId=BDFE48A72B7E687C>
         <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
@@ -107,6 +128,13 @@ Passionate about building clean, efficient systems and exploring how technology 
       <br/>
       Introduction to prompt engineering with GitHub Copilot
     </td>
+        <td align="center" width="200">
+      <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/3A99RBWH?sharingId=BDFE48A72B7E687C>
+        <img src="https://learn.microsoft.com/training/achievements/intro-github-copilot.svg" width="100"/>
+      </a>
+      <br/>
+      GitHub Copilot Fundamentals Part 2 of 2
+    </td>
     <td align="center" width="200">
       <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/W2H3XU7N?sharingId=BDFE48A72B7E687C>
         <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
@@ -114,7 +142,79 @@ Passionate about building clean, efficient systems and exploring how technology 
       <br/>
       Using advanced GitHub Copilot features
     </td>
-    
+     <tr>
+    <td align="center" width="200">
+      <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/W2H3PHHN?sharingId=BDFE48A72B7E687C>
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+      Management and customization considerations with GitHub Copilot
+    </td>
+    <td align="center" width="200">
+      <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/YEFNDFXR?sharingId=BDFE48A72B7E687>
+        <img src="https://learn.microsoft.com/training/achievements/intro-github-copilot.svg" width="100"/>
+      </a>
+      <br/>
+      GitHub Copilot Fundamentals Part 1 of 2
+    </td>
+       <td align="center" width="200">
+      <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/D9K4XXHJ?sharingId=BDFE48A72B7E687C>
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+      Introduction to GitHub Copilot Business
+    </td>
+       <td align="center" width="200">
+      <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/URC66QE3?sharingId=BDFE48A72B7E687C>
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+      Introduction to GitHub Copilot Enterprise
+    </td>
+       <td align="center" width="200">
+      <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/XQNWNHBY?sharingId=BDFE48A72B7E687C>
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+      Using GitHub Copilot with JavaScript
+    </td>
+       <td align="center" width="200">
+      <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/A4YXRW37?sharingId=BDFE48A72B7E687C>
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+     Using GitHub Copilot with Python
+    </td>
+       <td align="center" width="200">
+      <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/FMWWZRGX?sharingId=BDFE48A72B7E687C>
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+     Get started with GitHub Copilot
+    </td>
+        <td align="center" width="200">
+      <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/CXGGFPU9?sharingId=BDFE48A72B7E687C>
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+     Develop unit tests using GitHub Copilot tools
+    </td>
+       </tr>
+        <tr>
+       <td align="center" width="200">
+      <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/BC44CAND?sharingId=BDFE48A72B7E687C>
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+     Implement code improvements using GitHub Copilot tools
+    </td>
+          <td align="center" width="200">
+      <a href=https://learn.microsoft.com/api/achievements/share/en-us/Grace-9551/H7UU7J48?sharingId=BDFE48A72B7E687C>
+        <img src="https://learn.microsoft.com/training/achievements/generic-trophy.svg" width="100"/>
+      </a>
+      <br/>
+     Accelerate app development by using GitHub Copilot
+    </td>
   </tr>
 </table>
 
